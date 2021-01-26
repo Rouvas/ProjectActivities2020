@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Work/React/EGarage/.idea/EGarage.iml" filepath="$USER_HOME$/Desktop/Work/React/EGarage/.idea/EGarage.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/mern-full-course-master/.idea/mern-full-course-master.iml" filepath="$USER_HOME$/Desktop/mern-full-course-master/.idea/mern-full-course-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/poly_alert.iml" filepath="$PROJECT_DIR$/.idea/poly_alert.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/rauventa-blog/.idea/rauventa-blog.iml" filepath="$USER_HOME$/Desktop/rauventa-blog/.idea/rauventa-blog.iml" />
+    </modules>
+  </component>
+</project>
