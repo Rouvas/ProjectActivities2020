@@ -6,7 +6,7 @@
 
 ## План-график работы над проектом
 
-План работы и задания доступны в [Trello](https://vk.cc/bVqZQg "Trello")
+План работы и задания доступны в [Notion](https://www.notion.so/polyalert/fccbb3bbb28c429987f2fc56928d2df3?v=ccb43ec536584fe78c413055f8023453 "Notion")
 
 ## Индивидуальные планы работы
 
