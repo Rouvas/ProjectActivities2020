@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://alex:ilyatascerpro2A@cluster0.y4vjf.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "maskindelealert jwt-token secret-type",
+  "adminJwtSecret": "maskindelealert admin secret jwt token version110"
+}
